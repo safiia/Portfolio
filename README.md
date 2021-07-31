@@ -1,12 +1,12 @@
 ..
-# John Doe
+# Safiia Mohammed
 *An Aspiring Data Scientist | 2X Kaggle Grandmaster*
 
 # Education
-* Masters of Science (Data Science), *YouTube University*, 2016-2018
-* Bachelors of Science (Data Science), *YouTube University*, 2012-2016
+* Masters of Science (Computer Science), *Ireland*, 2015-2016
+* Bachelors of Science (Computer Science), *University of Khartoum - Sudan*, 2007-2012
 
-# [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
+# [Project 1: Machine Learning](http://youtube.com/dataprofessor)
 ![alt text](h-heyerlein-ndja2LJ4IcM-unsplash.jpg )
 
 Photo by <a href="https://unsplash.com/@silverhousehd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">André François McKenzie</a> on <a href="https://unsplash.com/s/photos/cryptocurrency?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
